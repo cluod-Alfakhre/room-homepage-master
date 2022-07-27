@@ -151,11 +151,12 @@ main {
   color: hsl(0deg, 0%, 0%);
   font-size: 33px;
 }
-.slider .slider-content .articles-wrapper .second-articles-wrapper .articles .text article {
+.slider .slider-content .articles-wrapper .second-articles-wrapper .articles .text p {
   color: hsl(0deg, 0%, 63%);
   font-size: 17px;
   padding-top: 1rem;
   padding-bottom: 2rem;
+  line-height: 1.4;
 }
 .slider .slider-content .articles-wrapper .second-articles-wrapper .articles .text .shop-now {
   color: hsl(0deg, 0%, 0%);
@@ -266,7 +267,7 @@ footer .about-text p {
   .slider .slider-content .articles-wrapper .second-articles-wrapper .articles .text {
     padding: 4rem 5rem;
   }
-  .slider .slider-content .articles-wrapper .second-articles-wrapper .articles .text article {
+  .slider .slider-content .articles-wrapper .second-articles-wrapper .articles .text p {
     line-height: 1.6;
     font-size: 19px;
   }

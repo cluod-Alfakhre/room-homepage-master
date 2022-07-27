@@ -157,11 +157,12 @@ main{
                             color: $header-color;
                             font-size: 33px;
                         }
-                        article{
+                        p{
                             color: $pargraph-color;
                             font-size: 17px;
                             padding-top: 1rem;
                             padding-bottom: 2rem;
+                            line-height: 1.4;
                         }
                         .shop-now{
                             color: $header-color;
@@ -281,7 +282,7 @@ footer{
     }
     .slider .slider-content .articles-wrapper .second-articles-wrapper .articles .text{
         padding: 4rem 5rem;
-        article{
+        p{
             line-height: 1.6;
             font-size: 19px;
         }
